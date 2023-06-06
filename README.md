@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **hanifheinrich@gmail.com**
 
-- 👨‍💻 My Design can be seen on [https://www.behance.net/hanifheinrichsign](https://www.behance.net/hanifheinrichsign)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
