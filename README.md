@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifheinrich&label=Profile%20views&color=0e75b6&style=flat" alt="hanifheinrich" /> </p>
 
-- 👨‍💻 My Design can be seen on [https://www.behance.net/hanifheinrichsign](https://www.behance.net/hanifheinrichsign)
+- ⚡ Fun fact **I am interested in art, philosophy and politics**
 
 - 📫 How to reach me **hanifheinrich@gmail.com**
 
-- ⚡ Fun fact **I am interested in art, philosophy and politics**
+- 👨‍💻 My Design can be seen on [https://www.behance.net/hanifheinrichsign](https://www.behance.net/hanifheinrichsign)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
