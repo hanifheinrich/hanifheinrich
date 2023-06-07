@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hanif Heinrich</h1>
+<h1 align="center">Hi, I'm Hanif Heinrich 👋</h1>
 <h3 align="center">Information System Student and Still Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanifheinrich&label=Profile%20views&color=0e75b6&style=flat" alt="hanifheinrich" /> </p>
