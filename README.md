@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at **My Repositories**
 
-- 💬 Ask me about **Python and Power BI**
+- 💬 Ask me about **Excel, SQL, Python, Pentaho, and Power BI**
 
 - 📫 How to reach me **hanifizzapratama@gmail.com**
 
