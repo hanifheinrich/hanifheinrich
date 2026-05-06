@@ -44,8 +44,16 @@ LinkedIn
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 </p>
 
-<p>
-  Power BI • Pentaho • Excel • Data Warehouse • ETL
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  
+  <img src="https://img.shields.io/badge/Pentaho-0FAAFF?style=for-the-badge&logo=data&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Data%20Warehouse-1E293B?style=for-the-badge&logo=databricks&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/ETL-0F172A?style=for-the-badge&logo=apacheairflow&logoColor=white" />
 </p>
 
 ---
